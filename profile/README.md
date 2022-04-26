@@ -25,5 +25,4 @@
 
 ### ► 🍿 Fun facts
 * A former member once ran 10km to go to the working place carrying a 3kg laptop in his bag out of pure fun.
-* A member used to note write his passwords on notes
 

@@ -8,21 +8,13 @@
 <h4 align="center">Let's make the world a better place with Science</h4>
 <br>
 
-### ► 🙋‍♀️ A short introduction
+### ► :passport_control: Guidelines
 <p align="left"> 
-  Yet to come...
+  Start your journey by reading the <a href="https://ceramic-blue-tim.github.io/Guidelines/">guidelines</a>.
 </p>
 
-### ► 🌈 Contribution guidelines
+### ► :postbox: Contact
 <p align="left"> 
-  Yet to come...
+  For any question or request concerning the organization, please contact us by mail at <a href="mailto:rbeaubois@u-bordeaux.fr">rbeaubois@u-bordeaux.fr</a>.
 </p>
-
-### ► 👩‍💻 Useful resources
-<p align="left"> 
-  The adventure starts from <a href="https://ceramic-blue-tim.github.io/Guidelines/">here</a>.
-</p>
-
-### ► 🍿 Fun facts
-* A former member once ran 10km to go to the working place carrying a 3kg laptop in his bag out of pure fun.
 

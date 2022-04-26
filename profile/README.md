@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Languages-French%20%26%20English-blue" />
 </p>
 <hr/>
-<h4 align="center">Let's make the world better with Science</h4>
+<h4 align="center">Let's make the world a better place with Science</h4>
 <br>
 
 ### ► 🙋‍♀️ A short introduction

@@ -1,12 +1,29 @@
-## Hi there 👋
+<h1 align="center">Welcome to Ceramic Blue Tim!</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Neuromorphic engineering-blue" />
+  <img src="https://img.shields.io/badge/Location-France-blue" />
+  <img src="https://img.shields.io/badge/Languages-French%20%26%20English-blue" />
+</p>
+<hr/>
+<h4 align="center">Let's make the world better with Science</h4>
+<br>
 
-<!--
+### ► 🙋‍♀️ A short introduction
+<p align="left"> 
+  Yet to come...
+</p>
 
-**Here are some ideas to get you started:**
+### ► 🌈 Contribution guidelines
+<p align="left"> 
+  Yet to come...
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### ► 👩‍💻 Useful resources
+<p align="left"> 
+  The adventure starts from <a href="https://ceramic-blue-tim.github.io/Guidelines/">here</a>.
+</p>
+
+### ► 🍿 Fun facts
+* A former member once ran 10km to go to the working place carrying a 3kg laptop in his bag out of pure fun.
+* A member used to note write his passwords on notes
+

@@ -18,3 +18,7 @@
   For any question or request concerning the organization, please contact us by mail at <a href="mailto:rbeaubois@u-bordeaux.fr">rbeaubois@u-bordeaux.fr</a>.
 </p>
 
+### ► :bookmark_tabs: Inventory
+<p align="left"> 
+  <a href="https://github.com/orgs/Ceramic-Blue-Tim/projects/11/views/1"> :link: Link</a> to inventory.
+</p>

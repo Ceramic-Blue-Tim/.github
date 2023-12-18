@@ -5,5 +5,3 @@
   <img src="https://img.shields.io/badge/Languages-French%20%26%20English-blue" />
 </p>
 <hr/>
-<h4 align="center">Welcome!</h4>
-<br>
